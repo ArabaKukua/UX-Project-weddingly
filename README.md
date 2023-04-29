@@ -19,6 +19,6 @@ Test Solution and Iteration: I tested the app with a group of beta users and gat
 Next Steps and Learning: As I move forward with Weddingly, I plan to continue gathering feedback from users and making improvements to the app's design and functionality. I plan to create a second aspect of the app as the planner, not just for the invitation. I have learned that designing a successful wedding planning app requires a deep understanding of user needs and pain points, as well as a focus on creating a user-friendly and intuitive interface. By continuing to iterate and improve the app, I hope to create a valuable tool for couples planning their dream wedding.
 
 
-https://bit.ly/weddingly
+prototype link: https://bit.ly/weddingly
 
 
